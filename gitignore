@@ -1,0 +1,3 @@
+*.ipynb.icloud
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
